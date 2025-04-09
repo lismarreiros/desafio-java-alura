@@ -11,12 +11,12 @@ Este projeto foi desenvolvido como parte de um desafio da Alura para praticar os
 
 ## 📝 Observações
 
-Toda a lógica está concentrada em uma única classe para facilitar o entendimento.
-As informações das contas são simuladas em tempo de execução e não são persistidas.
-O foco do projeto é treinar a lógica com estruturas básicas como condicionais, laços, métodos e manipulação de dados via console.
+- Toda a lógica está concentrada em uma única classe para facilitar o entendimento.
+- As informações das contas são simuladas em tempo de execução e não são persistidas.
+- O foco do projeto é treinar a lógica com estruturas básicas como condicionais, laços, métodos e manipulação de dados via console.
 
 ## 📚 Aprendizados
 
-Primeiros passos com Java
-Manipulação de entradas via Scanner
-Estruturação básica de um programa orientado a objetos
+- Primeiros passos com Java
+- Manipulação de entradas via Scanner
+- Estruturação básica de um programa orientado a objetos
